@@ -1,0 +1,9 @@
+datasource:
+  username: maruka
+  password: 46115268
+  host: localhost
+  port: 3306
+  database: ginessential
+  charset: utf8
+server:
+  port: 9090

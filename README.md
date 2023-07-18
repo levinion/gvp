@@ -2,12 +2,12 @@
 
 ## intro
 
-利用gin和vue框架写成的简单博客项目。本项目代码参考B站视频 [Go语言 Gin+Vue 前后端分离实战 - OceanLearn](https://www.bilibili.com/video/BV1CE411H7bQ/)。
+利用gin和vue框架写成的简单博客项目。
 
-与教程源代码相比变化如下：
+本项目特点如下：
 
-- 使用 vue3 和 element-plus 取代 bootstrap
-- 适配 gorm2，减少了由于框架变动导致的错误
+- 使用 vue3 和 element-plus；
+- 适配 gorm2，减少了由于框架变动导致的错误；
 
 ## ToDo List
 
